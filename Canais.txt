@@ -3867,3 +3867,5 @@ http://pdsrv.io:80/Tiago2905/qawsed1290/128053
 http://pdsrv.io:80/Tiago2905/qawsed1290/128054
 #EXTINF:-1 tvg-id="" tvg-name="Liga Nacional de Futsal 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png" group-title=" Canais | LNF 2023",Liga Nacional de Futsal 04
 http://pdsrv.io:80/Tiago2905/qawsed1290/128055
+
+#EXTXMLTV:http://pdsrv.io/xmltv.php?username=Tiago2905&password=qawsed1290&type=m3u_plus
