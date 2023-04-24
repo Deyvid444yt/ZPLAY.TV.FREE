@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass HD" tvg-logo="https://i.imgur.com/op123mz.png" group-title="CANAIS DE TESTE",UFC Fight Pass HD
-http://meuplay.shop:80/5961913180/7614470586/84480
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass SD" tvg-logo="https://i.imgur.com/op123mz.png" group-title="CANAIS DE TESTE",UFC Fight Pass SD
-http://meuplay.shop:80/5961913180/7614470586/84481
+#EXTINF:-1 tvg-id="tv.ufsc.br" tvg-name="UFC Fight Pass 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/2560px-UFC_Fight_Pass_Logo.svg.png" group-title="Canais | Esportes PPV",UFC Fight Pass 01
+http://painel.ebanonet.com.br:80/Tiago2905/qawsed1290/126978shop:80/5961913180/7614470586/84481
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="http://www.kanawat.com.br/icons/combate.png" group-title="ESPORTES",COMBATE 4K
 http://massud.homelinux.com:80/7777777/7777777/14353
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFCFIGHTPASS 4k" tvg-logo="http://www.tunningtv.com/launcher/icons/ufcpass.png" group-title="ESPORTES",UFCFIGHTPASS 4k
