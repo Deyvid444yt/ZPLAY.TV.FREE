@@ -187,3 +187,20 @@ http://massud.homelinux.com:80/7777777/7777777/56340
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 3 HD ( BACKUP)" tvg-logo="http://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 3 HD ( BACKUP)
 http://massud.homelinux.com:80/7777777/7777777/56341
+
+###########################################DOCUMENTARIOS ###################################
+
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="http://www.tunningtv.com/launcher/icons/TRAVELBOX.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL HD
+http://massud.homelinux.com:80/7777777/7777777/78526
+
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NAT GEO 4K" tvg-logo="https://www.kanawat.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO 4K
+http://massud.homelinux.com:80/7777777/7777777/14427
+
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NAT GEO HEVC" tvg-logo="https://www.kanawat.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO HEVC
+http://massud.homelinux.com:80/7777777/7777777/57914
+
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="Nat Geo Wild 4K" tvg-logo="http://www.kanawat.com.br/icons/natgeowild.png" group-title="DOCUMENTARIOS",Nat Geo Wild 4K
+http://massud.homelinux.com:80/7777777/7777777/14429
+
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://www.kanawat.com.br/icons/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+http://massud.homelinux.com:80/7777777/7777777/14428
