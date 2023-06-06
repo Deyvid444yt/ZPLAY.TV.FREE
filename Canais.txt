@@ -681,69 +681,37 @@ http://massud.homelinux.com:80/movie/7777777/7777777/40868.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A assinatura dos canais árabes terminou. Entre em contato conosco via WhatsApp para renovação: 005545998444888" tvg-logo="" group-title="ESPORTES",A assinatura dos canais árabes terminou. Entre em contato conosco via WhatsApp para renovação: 005545998444888
 http://massud.homelinux.com:80/7777777/7777777/80404
 #EXTINF:-1 tvg-id="" tvg-name="24H-aladdin" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-aladdin
-
 http://massud.homelinux.com:80/7777777/7777777/86348
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-AMERICANDEAD" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-AMERICANDEAD
-
 http://massud.homelinux.com:80/7777777/7777777/86349
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-Animaniacs.S01.a.S04" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-Animaniacs.S01.a.S04
-
 http://massud.homelinux.com:80/7777777/7777777/86350
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-As.Aventuras.de.Jachie.Chan.S01.txt" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-As.Aventuras.de.Jachie.Chan.S01.txt
-
 http://massud.homelinux.com:80/7777777/7777777/86351
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-As.Aventuras.de.Tintim.S01.S2.S03" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-As.Aventuras.de.Tintim.S01.S2.S03
-
 http://massud.homelinux.com:80/7777777/7777777/86352
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-ASMENINASSUPERPODEROSAS" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-ASMENINASSUPERPODEROSAS
-
 http://massud.homelinux.com:80/7777777/7777777/86353
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-asvisoesdaraven" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-asvisoesdaraven
-
 http://massud.homelinux.com:80/7777777/7777777/86354
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-A.turma.da.Monica.S01" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-A.turma.da.Monica.S01
-
 http://massud.homelinux.com:80/7777777/7777777/86355
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-A.turma.do.Charlie.Brown.e.Snoopy.01" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-A.turma.do.Charlie.Brown.e.Snoopy.01
-
 http://massud.homelinux.com:80/7777777/7777777/86356
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-avacaeofrango" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-avacaeofrango
-
 http://massud.homelinux.com:80/7777777/7777777/86357
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-Ben.10.2005.S01.S02.S03.S04" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-Ben.10.2005.S01.S02.S03.S04
-
 http://massud.homelinux.com:80/7777777/7777777/86358
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-BEYBLADE" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-BEYBLADE
-
 http://massud.homelinux.com:80/7777777/7777777/86359
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-Billy.Dilley.S01" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-Billy.Dilley.S01
-
 http://massud.homelinux.com:80/7777777/7777777/86360
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-Bob.Zoom.S01.S02" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-Bob.Zoom.S01.S02
-
 http://massud.homelinux.com:80/7777777/7777777/86361
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-caocoragem" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-caocoragem
-
 http://massud.homelinux.com:80/7777777/7777777/86362
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-casteloratimbu" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-casteloratimbu
-
 http://massud.homelinux.com:80/7777777/7777777/86363
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-Caverna.do.dragao.S01E01" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-Caverna.do.dragao.S01E01
 
 http://massud.homelinux.com:80/7777777/7777777/86364
@@ -1237,57 +1205,38 @@ http://massud.homelinux.com:80/7777777/7777777/86488
 http://massud.homelinux.com:80/7777777/7777777/86489
 
 #EXTINF:-1 tvg-id="" tvg-name="24H-todegraca" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-todegraca
-
 http://massud.homelinux.com:80/7777777/7777777/86490
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-dragon.ball" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-dragon.ball
-
 http://massud.homelinux.com:80/7777777/7777777/86491
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-dragon.ball.gt" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-dragon.ball.gt
-
 http://massud.homelinux.com:80/7777777/7777777/86492
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-dragon.ball.super" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-dragon.ball.super
-
 http://massud.homelinux.com:80/7777777/7777777/86493
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-dragon.ball.z" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-dragon.ball.z
-
 http://massud.homelinux.com:80/7777777/7777777/86494
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-dragon.ball.z.kai" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-dragon.ball.z.kai
-
 http://massud.homelinux.com:80/7777777/7777777/86495
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-jaspion" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-jaspion
-
 http://massud.homelinux.com:80/7777777/7777777/86496
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-boruto" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-boruto
-
 http://massud.homelinux.com:80/7777777/7777777/86497
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-avataralendadeaang" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-avataralendadeaang
-
 http://massud.homelinux.com:80/7777777/7777777/86498
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-avataralendadekorra" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-avataralendadekorra
-
 http://massud.homelinux.com:80/7777777/7777777/86499
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-southpark" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-southpark
-
 http://massud.homelinux.com:80/7777777/7777777/86500
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-black.kamen.rider.txt" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-black.kamen.rider.txt
-
 http://massud.homelinux.com:80/7777777/7777777/86501
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-guerreiras.magicas.de.rayearth.txt" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-guerreiras.magicas.de.rayearth.txt
-
 http://massud.homelinux.com:80/7777777/7777777/86502
-
 #EXTINF:-1 tvg-id="" tvg-name="24H-Sailor.Moon.S01" tvg-logo="https://www.kanawat.com.br/icons/24h.png" group-title="Canais 24/7",24H-Sailor.Moon.S01
-
 http://massud.homelinux.com:80/7777777/7777777/86432
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco (1986)" tvg-logo="https://canal24horas.com.br/images/template/logo_canal_24h_redes.png" group-title="Canais 24/7 2",Os Cavaleiros do Zodíaco (1986)
+http://toronto99.xyz:80/600021197610/690035062332/91483
+#EXTINF:-1 tvg-id="Os Cavaleiros do Zodíaco: Ômega" tvg-name="" tvg-logo="https://canal24horas.com.br/images/template/logo_canal_24h_redes.png" group-title="Canais 24/7 2",Os Cavaleiros do Zodíaco: Ômega
+http://toronto99.xyz:80/600021197610/690035062332/91234
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 1" tvg-logo="https://canal24horas.com.br/images/template/logo_canal_24h_redes.png" group-title="Canais 24/7 2",Bob Esponja 1
+http://toronto99.xyz:80/600021197610/690035062332/90588
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 2" tvg-logo="https://canal24horas.com.br/images/template/logo_canal_24h_redes.png" group-title="Canais 24/7 2",Bob Esponja 2
+http://toronto99.xyz:80/600021197610/690035062332/90589
