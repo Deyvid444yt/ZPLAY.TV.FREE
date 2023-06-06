@@ -1246,3 +1246,5 @@ http://toronto99.xyz:80/600021197610/690035062332/90273
 http://toronto99.xyz:80/600021197610/690035062332/62878
 #EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor-de-Rosa" tvg-logo="https://canal24horas.com.br/images/template/logo_canal_24h_redes.png" group-title="Canais 24/7 2",A Pantera Cor-de-Rosa
 http://toronto99.xyz:80/600021197610/690035062332/70956
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://canal24horas.com.br/images/template/logo_canal_24h_redes.png" group-title="Canais 24/7 2",Dragon Ball Z
+http://toronto99.xyz:80/600021197610/690035062332/73415
