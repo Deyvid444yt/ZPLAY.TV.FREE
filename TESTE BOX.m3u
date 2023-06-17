@@ -1,7 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="http://www.kanawat.com.br/icons/combate.png" group-title="ESPORTES",COMBATE 4K
 http://massud.homelinux.com:80/7777777/7777777/14353
-
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFCFIGHTPASS 4k" tvg-logo="http://www.tunningtv.com/launcher/icons/ufcpass.png" group-title="ESPORTES",UFCFIGHTPASS 4k
 http://massud.homelinux.com:80/7777777/7777777/79024
 #EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="UFC 4K" tvg-logo="https://kanawat.com.br/icons/ufc.png" group-title="ESPORTES",UFC 4K
