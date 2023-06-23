@@ -1263,3 +1263,7 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w2011427906.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TESTE YT" tvg-logo="http://www.kanawat.com.br/icons/hbomax.png" group-title="TESTE",TESTE YT
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686554706/ei/8nOGZNbPE4-D-LAP_uec6A8/ip/138.185.17.27/id/PlrOmXnzZGg.1/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/hls_chunk_host/rr1---sn-q5opxauxa-gxjl.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/spc/qEK7B6N_INdfjtiiVCAqo-l8xzInJ1nT1b9O85vL3w/vprv/1/playlist_type/DVR/initcwndbps/683750/mh/VK/mm/44/mn/sn-q5opxauxa-gxjl/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362687,51000023/beids/24350018/mt/1686532846/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhAJb
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="xplus teste",A&E HD
+http://main.xplus2-main.xyz:2095/xplus-2-JP5Af2oeYr/W9mPsYbClN/226
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET 4K" tvg-logo="" group-title="xplus teste",ANIMAL PLANET 4K
+http://main.xplus2-main.xyz:2095/xplus-2-JP5Af2oeYr/W9mPsYbClN/61
