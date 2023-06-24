@@ -1267,3 +1267,13 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686554706/ei/
 http://hls1.sua.tv/live/globospsd/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MXQ TV",GLOBO SP HD
 http://hls1.sua.tv/live/globosphd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MXQ TV",BAND CAMPINAS FHD
+http://hls1.sua.tv/live/bandcampinasfhd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MXQ TV",BAND CAMPINAS HD
+http://hls4.sua.tv/review_stream/bandcampinashd/i.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MXQ TV",SBT BRASILIA
+http://hls1.sua.tv/live/sbtbrasilia/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MXQ TV",SBT CENTRAL FHD
+http://hls1.sua.tv/live/sbtcentralfhd/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MXQ TV",RECORD BAHIA HD
+http://hls1.sua.tv/live/recordbahiahd/s.m3u8
