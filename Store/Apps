@@ -1,1 +1,37 @@
-01
+{
+  "count": 0,
+  "code": 0,
+  "msg": "Request successful",
+  "datas": [
+    {
+      "id": 347,
+      "version": null,
+      "createTime": "2022-06-20 16:24:38",
+      "updateTime": "2023-08-01 13:31:10",
+      "createUserId": 1,
+      "isNew": 0,
+      "appName": "Onix",
+      "versionCode": "16",
+      "versionName": "1.1.6",
+      "downUrl": "http://jia.gecen.cc:8080/apps2/apk/Onix16.apk",
+      "appSize": 14.0,
+      "packageName": "com.onixapp.app",
+      "iconUrl": "http://jia.gecen.cc:8080/apps2/icon/Onix16.png",
+      "description": "",
+      "downTimes": 67,
+      "appType": "app",
+      "recommend": 0,
+      "recommendSort": 0,
+      "recommendIcon": null,
+      "newAppType": null,
+      "supportMouse": 1,
+      "supportControl": 0,
+      "supportGoogle": 0,
+      "developmentCompany": "",
+      "recommendStar": 0.0,
+      "deskLogoUrl": null,
+      "backgroundUrl": null
+    }
+  ],
+  "data": null
+}
